@@ -1,0 +1,35 @@
+{
+  "seed": 42,
+  "clientes": {
+    "email_vacio": 3,
+    "email_invalido": 3,
+    "provincia_vacia": 2,
+    "duplicados_exactos": 3,
+    "duplicados_con_conflicto": 2
+  },
+  "productos": {
+    "categoria_vacia": 1,
+    "precio_negativo": 1,
+    "precio_cero": 1,
+    "duplicados_exactos": 1
+  },
+  "ventas": {
+    "fecha_invalida": 15,
+    "producto_inexistente": 12,
+    "cliente_inexistente": 10,
+    "cantidad_negativa": 12,
+    "cantidad_cero": 6,
+    "campo_vacio": 12,
+    "precio_invalido": 8,
+    "id_venta_repetido_exacto": 10,
+    "id_venta_repetido_con_conflicto": 10
+  },
+  "compras": {
+    "fecha_invalida": 6,
+    "producto_inexistente": 5,
+    "cantidad_negativa": 5,
+    "proveedor_vacio": 4,
+    "costo_invalido": 4,
+    "id_compra_repetido_exacto": 5
+  }
+}

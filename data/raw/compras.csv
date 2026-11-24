@@ -1,0 +1,306 @@
+id_compra,fecha,proveedor,id_producto,cantidad,costo_unitario
+5188,2026-09-28,Lácteos La Pampa,21,300,1400
+5150,2026-08-26,Importadora Sur SRL,3,100,800
+5206,2026-11-10,Bebidas Andinas SRL,7,100,1250
+5168,2026-11-04,Importadora Sur SRL,10,500,550
+5104,2026-08-19,Limpieza Total SA,2,500,600
+5281,2026-09-13,Lácteos La Pampa,5,100,750
+5059,2026-09-30,Lácteos La Pampa,3,200,800
+5139,2026-09-30,Bebidas Andinas SRL,11,200,650
+5055,2026-09-06,Limpieza Total SA,25,100,1550
+5271,2026-10-06,Importadora Sur SRL,18,50,2000
+5029,2026-08-22,Lácteos La Pampa,20,200,1450
+5072,2026-08-29,Lácteos La Pampa,18,100,2100
+5146,2026-08-28,Lácteos La Pampa,13,200,3200
+5177,2026-10-30,Importadora Sur SRL,3,50,750
+5167,2026-11-03,Bebidas Andinas SRL,888,100,2850
+5012,2026-08-27,Importadora Sur SRL,22,200,1000
+5262,2026-10-08,Bebidas Andinas SRL,15,50,0
+5071,2026-08-23,Bebidas Andinas SRL,25,50,1500
+5017,2026-10-13,Limpieza Total SA,21,500,1350
+5214,2026-10-06,Bebidas Andinas SRL,18,100,1750
+5020,2026-08-15,Limpieza Total SA,5,200,850
+5159,2026-08-18,Alimentos Cordilleranos,23,300,4900
+5005,2026-10-20,Limpieza Total SA,6,50,550
+5092,2026-08-27,Limpieza Total SA,4,50,1600
+5046,2026-08-26,Molinos del Oeste SA,20,300,1150
+5207,2026-08-18,Bebidas Andinas SRL,1,200,2850
+5250,2026-11-04,Alimentos Cordilleranos,13,200,3250
+5033,2026-10-06,Importadora Sur SRL,5,500,800
+5291,2026-11-09,Molinos del Oeste SA,14,100,3500
+5075,2026-08-21,Molinos del Oeste SA,2,200,600
+5254,2026-10-18,Molinos del Oeste SA,6,200,600
+5137,2026-08-17,Lácteos La Pampa,11,500,550
+5180,2026-09-24,Limpieza Total SA,15,200,1650
+5172,2026-08-28,Alimentos Cordilleranos,3,-17,750
+5202,2026-10-29,Bebidas Andinas SRL,18,100,1850
+5294,2026-09-08,Molinos del Oeste SA,14,100,3000
+5257,2026-09-23,Bebidas Andinas SRL,14,50,2800
+5216,2026-10-17,Importadora Sur SRL,16,50,850
+5266,2026-09-29,Importadora Sur SRL,15,500,1650
+5253,2026-11-08,Importadora Sur SRL,6,300,650
+5249,2026-08-31,Limpieza Total SA,20,200,1250
+5088,2026-13-45,Bebidas Andinas SRL,14,300,2800
+5061,2026-08-22,Bebidas Andinas SRL,22,300,900
+5135,2026-10-26,Importadora Sur SRL,4,300,2100
+5192,2026-11-06,Limpieza Total SA,18,100,1700
+5292,19/08/2026,Molinos del Oeste SA,22,100,1200
+5154,2026-10-22,Alimentos Cordilleranos,16,100,800
+5081,2026-09-07,Alimentos Cordilleranos,11,100,650
+5039,2026-11-10,Lácteos La Pampa,2,100,600
+5083,2026-11-02,Molinos del Oeste SA,14,50,3100
+5060,2026-09-18,Molinos del Oeste SA,6,200,700
+5080,2026-09-25,Alimentos Cordilleranos,5,500,800
+5082,2026-09-15,Molinos del Oeste SA,12,100,1250
+5132,2026-09-25,Lácteos La Pampa,22,500,950
+5007,2026-08-19,Limpieza Total SA,25,300,-800
+5003,2026-09-28,Lácteos La Pampa,9,300,1450
+5020,2026-08-15,Limpieza Total SA,5,200,850
+5076,2026-11-12,Limpieza Total SA,24,100,1650
+5259,2026-10-27,Bebidas Andinas SRL,7,100,1100
+5238,2026-10-24,Limpieza Total SA,25,100,1600
+5255,2026-10-06,Importadora Sur SRL,8,300,2200
+5199,2026-10-16,Bebidas Andinas SRL,888,200,1450
+5078,2026-08-19,Alimentos Cordilleranos,21,300,1150
+5278,2026-10-29,Importadora Sur SRL,9,100,1600
+5171,2026-11-06,Lácteos La Pampa,888,300,650
+5103,2026-09-24,Bebidas Andinas SRL,14,200,3050
+5062,2026-08-20,Alimentos Cordilleranos,21,100,1200
+5031,2026-09-17,Bebidas Andinas SRL,12,300,1050
+5147,2026-08-15,Molinos del Oeste SA,25,50,1750
+5044,2026-09-08,Alimentos Cordilleranos,23,500,4700
+5233,2026-08-18,Lácteos La Pampa,7,100,1050
+5289,2026-11-12,Molinos del Oeste SA,20,200,1500
+5016,2026-11-09,Bebidas Andinas SRL,7,200,1150
+5140,2026-11-10,Importadora Sur SRL,11,100,600
+5220,2026-09-12,Importadora Sur SRL,23,200,5300
+5152,2026-08-27,Bebidas Andinas SRL,16,50,700
+5011,2026-09-12,Limpieza Total SA,21,500,1200
+5101,2026-09-16,Importadora Sur SRL,25,200,1550
+5014,2026-09-23,Lácteos La Pampa,22,50,900
+5057,2026-08-17,Lácteos La Pampa,17,50,2300
+5053,02/11/2026,Lácteos La Pampa,6,100,700
+5279,2026-09-14,Limpieza Total SA,24,200,1250
+5025,2026-09-08,Alimentos Cordilleranos,16,500,800
+5087,2026-09-17,Importadora Sur SRL,14,200,3400
+5205,2026-10-21,Lácteos La Pampa,9,300,1550
+5181,2026-10-31,Lácteos La Pampa,20,500,1550
+5235,2026-09-04,Lácteos La Pampa,5,50,900
+5134,2026-11-04,Lácteos La Pampa,19,50,2100
+5208,2026-09-30,Bebidas Andinas SRL,4,100,1800
+5058,2026-11-11,Importadora Sur SRL,25,300,2000
+5164,2026-11-06,Lácteos La Pampa,8,200,2550
+5136,2026-10-17,Alimentos Cordilleranos,14,300,3650
+5141,2026-08-27,Limpieza Total SA,1,50,3050
+5286,2026-10-16,Limpieza Total SA,18,500,1600
+5026,2026-09-11,Bebidas Andinas SRL,22,500,900
+5018,2026-10-19,Molinos del Oeste SA,18,100,2050
+5258,2026-09-12,Importadora Sur SRL,14,50,-800
+5174,2026-11-08,Limpieza Total SA,2,100,750
+5048,2026-10-23,Importadora Sur SRL,12,100,1250
+5236,2026-09-29,Limpieza Total SA,10,200,700
+5116,2026-11-01,Bebidas Andinas SRL,9,100,1950
+5056,2026-09-21,Limpieza Total SA,14,200,3650
+5282,2026-08-27,Molinos del Oeste SA,1,100,2550
+5037,2026-10-23,Alimentos Cordilleranos,7,200,950
+5084,2026-09-13,Bebidas Andinas SRL,5,200,750
+5108,2026-11-06,Alimentos Cordilleranos,25,300,1600
+5068,2026-11-02,Molinos del Oeste SA,10,300,600
+5054,2026-09-27,Importadora Sur SRL,14,500,2950
+5211,2026-10-19,Bebidas Andinas SRL,5,300,800
+5100,2026-10-27,Bebidas Andinas SRL,20,300,1400
+5158,2026-10-19,Importadora Sur SRL,9,50,1950
+5295,2026-10-19,Alimentos Cordilleranos,21,100,1400
+5223,2026-10-16,Lácteos La Pampa,13,200,4000
+5263,2026-11-04,Limpieza Total SA,15,300,1650
+5127,2026-09-16,Molinos del Oeste SA,14,500,3200
+5222,2026-10-15,Bebidas Andinas SRL,7,200,1250
+5001,2026-09-08,Molinos del Oeste SA,2,300,650
+5197,2026-09-15,Molinos del Oeste SA,4,200,1650
+5193,2026-08-23,Bebidas Andinas SRL,7,50,1050
+5198,2026-08-23,Bebidas Andinas SRL,1,500,2500
+5229,2026-09-17,Bebidas Andinas SRL,6,100,700
+5120,2026-09-25,Molinos del Oeste SA,9,50,-800
+5275,,Molinos del Oeste SA,7,200,950
+5185,2026-09-28,Limpieza Total SA,9,200,1800
+5247,2026-11-10,Alimentos Cordilleranos,19,-89,2400
+5179,2026-10-14,Alimentos Cordilleranos,14,500,3300
+5178,2026-09-25,Limpieza Total SA,10,50,650
+5270,2026-10-13,Bebidas Andinas SRL,2,100,750
+5288,2026-09-24,Importadora Sur SRL,4,100,1800
+5023,2026-09-18,Limpieza Total SA,23,200,5700
+5290,2026-09-26,Bebidas Andinas SRL,8,100,2200
+5182,2026-09-15,Alimentos Cordilleranos,1,100,2800
+5212,2026-10-03,Alimentos Cordilleranos,12,200,1350
+5193,2026-08-23,Bebidas Andinas SRL,7,50,1050
+5078,2026-08-19,Alimentos Cordilleranos,21,300,1150
+5272,2026-10-16,Limpieza Total SA,24,200,1650
+5224,2026-10-23,Lácteos La Pampa,19,100,2200
+5264,2026-10-01,Alimentos Cordilleranos,17,200,2300
+5162,2026-10-08,Molinos del Oeste SA,14,500,3200
+5226,2026-08-30,Molinos del Oeste SA,8,200,2550
+5133,2026-10-07,Molinos del Oeste SA,17,100,2500
+5245,2026-09-28,Lácteos La Pampa,22,100,1000
+5191,2026-08-18,Bebidas Andinas SRL,22,50,950
+5166,2026-11-09,Importadora Sur SRL,19,100,2450
+5024,2026-09-03,Lácteos La Pampa,20,50,1350
+5030,2026-10-23,Lácteos La Pampa,1,500,2450
+5194,2026-09-13,Importadora Sur SRL,22,500,1200
+5173,2026-09-16,Alimentos Cordilleranos,21,50,1100
+5149,2026-10-08,Importadora Sur SRL,25,500,1700
+5161,2026-11-06,Lácteos La Pampa,21,200,1350
+5293,2026-08-19,Bebidas Andinas SRL,4,500,1650
+5155,2026-08-18,Importadora Sur SRL,19,300,2200
+5209,2026-09-26,Importadora Sur SRL,12,100,1350
+5067,2026-09-29,Importadora Sur SRL,23,200,5800
+5038,2026-09-10,Lácteos La Pampa,14,100,2900
+5008,2026-10-20,Bebidas Andinas SRL,11,100,500
+5243,2026-11-09,Lácteos La Pampa,18,100,1950
+5009,2026-10-10,Importadora Sur SRL,20,50,1350
+5123,2026-09-14,Alimentos Cordilleranos,11,200,500
+5063,2026-08-15,Alimentos Cordilleranos,22,100,1100
+5064,2026-09-29,Molinos del Oeste SA,11,100,650
+5237,2026-08-21,Molinos del Oeste SA,25,200,1850
+5175,2026-11-04,Bebidas Andinas SRL,23,50,6000
+5015,2026-10-19,Molinos del Oeste SA,1,50,2900
+5095,2026-10-25,Bebidas Andinas SRL,1,300,2650
+5251,2026-10-01,Alimentos Cordilleranos,4,200,1900
+5183,2026-10-30,Molinos del Oeste SA,4,300,1950
+5131,2026-11-05,Limpieza Total SA,1,100,2800
+5090,2026-10-28,Importadora Sur SRL,17,-64,2300
+5297,2026-10-02,Bebidas Andinas SRL,12,50,1150
+5112,2026-10-02,Limpieza Total SA,20,300,1150
+5050,2026-08-22,Lácteos La Pampa,5,100,950
+5042,2026-10-15,Limpieza Total SA,18,100,2150
+5145,2026-09-17,Importadora Sur SRL,22,50,1000
+5200,2026-09-25,Bebidas Andinas SRL,11,200,550
+5032,2026-09-30,Alimentos Cordilleranos,22,500,1100
+5010,2026-11-12,,1,50,2300
+5269,2026-08-15,Alimentos Cordilleranos,6,50,650
+5203,2026-08-30,Lácteos La Pampa,21,50,1400
+5151,2026-10-14,Limpieza Total SA,8,100,2150
+5283,2026-09-23,Bebidas Andinas SRL,18,50,2000
+5230,2026-11-02,,12,300,1150
+5234,2026-08-17,Lácteos La Pampa,25,100,1850
+5276,2026-08-16,Importadora Sur SRL,21,500,1200
+5190,2026-10-06,Lácteos La Pampa,11,50,600
+5242,2026-09-20,Bebidas Andinas SRL,23,200,5250
+5107,2026-11-02,Bebidas Andinas SRL,18,300,1900
+5104,2026-08-19,Limpieza Total SA,2,500,600
+5284,2026-08-18,Lácteos La Pampa,1,100,2700
+5096,2026-10-07,Bebidas Andinas SRL,10,100,700
+5186,2026-10-20,Bebidas Andinas SRL,15,100,1650
+5215,2026-10-08,Bebidas Andinas SRL,21,300,1400
+5129,19-09-26,Alimentos Cordilleranos,18,200,1600
+5280,2026-08-20,Bebidas Andinas SRL,18,500,2150
+5002,2026-09-14,Importadora Sur SRL,4,500,1850
+5049,2026-09-09,Limpieza Total SA,888,500,1950
+5217,2026-08-26,Molinos del Oeste SA,22,100,1050
+5051,2026-10-18,Limpieza Total SA,4,200,1950
+5239,2026-10-17,Limpieza Total SA,24,100,1450
+5184,2026-10-19,Alimentos Cordilleranos,19,100,2250
+5035,2026-10-23,Alimentos Cordilleranos,16,-20,750
+5086,2026-09-23,Lácteos La Pampa,25,300,1750
+5019,2026-09-13,Limpieza Total SA,5,50,750
+5105,2026-10-22,Importadora Sur SRL,3,50,750
+5256,26-09-26,Alimentos Cordilleranos,2,50,600
+5144,2026-08-21,Molinos del Oeste SA,21,300,1050
+5241,2026-10-03,Bebidas Andinas SRL,3,200,750
+5274,2026-10-02,Limpieza Total SA,17,200,2100
+5117,2026-10-22,Molinos del Oeste SA,22,300,1200
+5079,2026-10-07,Importadora Sur SRL,10,500,650
+5119,2026-10-03,Bebidas Andinas SRL,4,200,2050
+5225,2026-11-02,Lácteos La Pampa,5,200,850
+5066,2026-09-04,Alimentos Cordilleranos,7,300,1150
+5045,2026-09-17,Limpieza Total SA,2,50,750
+5187,2026-10-27,Lácteos La Pampa,2,300,650
+5142,2026-10-21,Limpieza Total SA,22,300,1150
+5231,2026-11-02,Lácteos La Pampa,21,100,1100
+5138,2026-09-16,Lácteos La Pampa,25,100,1850
+5153,2026-09-23,Molinos del Oeste SA,21,100,1250
+5077,2026-08-30,Alimentos Cordilleranos,24,500,1600
+5232,2026-09-27,Molinos del Oeste SA,3,300,650
+5022,2026-11-06,Lácteos La Pampa,13,50,3150
+5265,2026-11-07,Importadora Sur SRL,19,50,2000
+5110,2026-10-20,Molinos del Oeste SA,18,100,2050
+5098,2026-09-20,Limpieza Total SA,2,300,600
+5285,2026-10-16,Importadora Sur SRL,6,50,750
+5006,2026-10-05,Lácteos La Pampa,23,300,5700
+5246,2026-09-22,Importadora Sur SRL,22,300,1000
+5204,2026-10-18,Lácteos La Pampa,7,100,1000
+5210,2026-09-18,Importadora Sur SRL,20,50,1200
+5040,2026-10-21,Alimentos Cordilleranos,6,50,700
+5195,2026-08-16,Lácteos La Pampa,20,300,1400
+5111,2026-08-30,Limpieza Total SA,8,50,2750
+5189,2026-10-25,Bebidas Andinas SRL,25,200,1650
+5157,2026-09-01,Bebidas Andinas SRL,9,300,1800
+5130,2026-08-25,Lácteos La Pampa,15,500,1700
+5109,2026-09-09,Molinos del Oeste SA,16,50,800
+5113,2026-09-30,Limpieza Total SA,1,100,2650
+5268,2026-09-18,Limpieza Total SA,20,200,1550
+5043,2026-11-07,Alimentos Cordilleranos,12,100,1300
+5097,2026-11-12,Molinos del Oeste SA,16,300,750
+5261,2026-08-29,Bebidas Andinas SRL,10,300,700
+5093,2026-10-06,Molinos del Oeste SA,19,300,1900
+5244,2026-10-04,Importadora Sur SRL,5,50,850
+5299,2026-08-20,Lácteos La Pampa,3,500,750
+5124,2026-09-21,Importadora Sur SRL,1,100,3100
+5201,2026-09-27,Molinos del Oeste SA,1,50,2600
+5221,2026-09-22,Importadora Sur SRL,19,300,2250
+5070,2026-09-08,Alimentos Cordilleranos,3,100,700
+5052,2026-10-12,Limpieza Total SA,1,100,2550
+5300,2026-11-04,,2,200,600
+5248,2026-10-01,Alimentos Cordilleranos,5,500,900
+5115,2026-09-04,Bebidas Andinas SRL,4,100,1600
+5296,2026-09-19,Molinos del Oeste SA,13,100,3250
+5074,2026-10-10,Importadora Sur SRL,12,300,1100
+5156,2026-08-29,Bebidas Andinas SRL,3,500,600
+5287,2026-09-07,Importadora Sur SRL,21,500,1300
+5091,2026-10-23,Alimentos Cordilleranos,2,100,750
+5218,2026-08-22,Alimentos Cordilleranos,25,100,1750
+5126,2026-09-02,Importadora Sur SRL,8,100,2400
+5102,2026-10-02,Molinos del Oeste SA,24,300,1500
+5085,2026-09-06,Limpieza Total SA,22,300,1050
+5160,2026-09-15,Molinos del Oeste SA,18,200,1950
+5240,2026-09-14,Importadora Sur SRL,18,200,1800
+5219,2026-10-21,Lácteos La Pampa,15,500,1450
+5041,2026-09-18,Molinos del Oeste SA,11,300,550
+5260,2026-08-19,Limpieza Total SA,23,100,5500
+5121,2026-08-28,Alimentos Cordilleranos,25,100,1750
+5273,2026-10-28,Lácteos La Pampa,18,50,2050
+5089,2026-09-15,Bebidas Andinas SRL,23,500,5350
+5047,2026-10-22,Importadora Sur SRL,4,50,2050
+5065,2026-10-25,Importadora Sur SRL,20,200,1350
+5105,2026-10-22,Importadora Sur SRL,3,50,750
+5073,2026-09-19,Alimentos Cordilleranos,10,50,700
+5027,2026-09-19,Alimentos Cordilleranos,1,100,2750
+5099,2026-09-30,Limpieza Total SA,15,200,1650
+5036,2026-11-01,Importadora Sur SRL,24,200,1250
+5252,2026-11-01,Bebidas Andinas SRL,10,50,700
+5034,2026-08-18,Importadora Sur SRL,14,500,3050
+5004,2026-11-10,Molinos del Oeste SA,17,500,2450
+5227,2026-09-19,Limpieza Total SA,11,200,550
+5094,2026-10-04,Lácteos La Pampa,12,100,1100
+5165,2026-11-12,Limpieza Total SA,11,100,550
+5298,2026-11-11,Limpieza Total SA,11,100,600
+5196,2026-08-26,,11,200,550
+5114,2026-10-03,Limpieza Total SA,17,100,2050
+5128,2026-09-26,Alimentos Cordilleranos,5,100,900
+5028,2026-08-22,Limpieza Total SA,9,200,1500
+5277,2026-09-22,Bebidas Andinas SRL,11,200,500
+5106,2026-10-04,Alimentos Cordilleranos,25,500,1550
+5125,2026-10-09,Alimentos Cordilleranos,1,300,2900
+5176,2026-11-05,Lácteos La Pampa,15,300,1550
+5170,2026-10-11,Bebidas Andinas SRL,11,50,600
+5118,2026-11-09,Importadora Sur SRL,6,50,600
+5013,2026-09-27,Importadora Sur SRL,20,500,1550
+5148,2026-09-17,Molinos del Oeste SA,7,100,1200
+5213,2026-11-07,Alimentos Cordilleranos,8,300,2300
+5267,2026-08-26,Bebidas Andinas SRL,13,200,3300
+5021,2026-08-30,Bebidas Andinas SRL,15,100,1400
+5163,2026-09-27,Alimentos Cordilleranos,16,-41,850
+5143,2026-09-11,Limpieza Total SA,23,300,4650
+5069,2026-10-27,Alimentos Cordilleranos,888,300,1350
+5169,2026-09-18,Molinos del Oeste SA,16,300,850
+5228,2026-09-10,Lácteos La Pampa,12,100,1150
+5122,2026-09-09,Limpieza Total SA,25,50,1650

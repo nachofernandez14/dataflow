@@ -1,0 +1,27 @@
+id_producto,producto,categoria,precio
+1,Yerba Mate 1kg,Almacén,4200
+2,Azúcar 1kg,Almacén,-1500
+3,Harina 000 1kg,Almacén,1100
+4,Aceite Girasol 900ml,Almacén,2800
+5,Fideos Spaghetti 500g,Almacén,1300
+6,Arroz Largo Fino 1kg,Almacén,0
+7,Galletitas Dulces 300g,Almacén,1700
+8,Café Molido 250g,Almacén,3900
+9,Gaseosa Cola 2.25L,Bebidas,2600
+10,Agua Mineral 2L,Bebidas,1000
+11,Jugo en Polvo x10,Bebidas,900
+12,Cerveza Lata 473ml,Bebidas,1800
+13,Vino Malbec 750ml,,5500
+14,Vino Torrontés 750ml,Bebidas,4900
+15,Detergente 750ml,Limpieza,2300
+16,Lavandina 1L,Limpieza,1200
+17,Jabón en Polvo 800g,Limpieza,3600
+18,Papel Higiénico x4,Limpieza,2900
+19,Shampoo 400ml,Higiene,3300
+20,Jabón de Tocador x3,Higiene,2100
+21,Dentífrico 90g,Higiene,1900
+22,Leche Entera 1L,Lácteos,1600
+23,Queso Cremoso kg,Lácteos,8200
+24,Yogur Bebible 1L,Lácteos,2200
+25,Dulce de Leche 400g,Lácteos,2700
+13,Vino Malbec 750ml,,5500

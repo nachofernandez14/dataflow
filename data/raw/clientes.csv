@@ -1,0 +1,66 @@
+id_cliente,nombre,provincia,localidad,email
+1,Autoservicio Romero,San Luis,San Luis,contacto1romero.com.ar
+2,Supermercado Castro,Mendoza,Godoy Cruz,contacto2@castro.com.ar
+3,Supermercado García,San Juan,San Juan,contacto3@garcia.com.ar
+4,Supermercado Silva,Mendoza,San Rafael,contacto4@silva.com.ar
+5,Autoservicio Acosta,San Juan,Pocito,contacto5@acosta.com.ar
+6,Distribuidora García,San Juan,Rivadavia,contacto6garcia.com.ar
+7,Almacén Acosta,Córdoba,Río Cuarto,contacto7@acosta.com.ar
+8,Supermercado Torres,Mendoza,Las Heras,contacto8@torres.com.ar
+9,Distribuidora Ruiz,Mendoza,Godoy Cruz,contacto9@ruiz.com.ar
+10,Kiosco Rodríguez,Mendoza,Maipú,contacto10@rodriguez.com.ar
+11,Supermercado Flores,,San Juan,contacto11@flores.com.ar
+12,Minimercado Ruiz,San Juan,Pocito,contacto12@ruiz.com.ar
+13,Kiosco Rodríguez,Mendoza,Godoy Cruz,contacto13@rodriguez.com.ar
+14,Distribuidora Fernández,Mendoza,Maipú,contacto14@fernandez.com.ar
+15,Almacén Flores,Mendoza,Godoy Cruz,contacto15@flores.com.ar
+16,Almacén Gómez,,Rivadavia,contacto16@gomez.com.ar
+17,Minimercado Fernández,Mendoza,Maipú,contacto17@fernandez.com.ar
+18,Autoservicio Sánchez,San Luis,Merlo,contacto18@sanchez.com.ar
+19,Autoservicio Castro,San Juan,Rivadavia,contacto19@castro.com.ar
+20,Distribuidora Sánchez,San Luis,San Luis,contacto20@sanchez.com.ar
+21,Almacén Flores,Mendoza,Luján de Cuyo,contacto21@flores.com.ar
+22,Kiosco Pérez,Mendoza,Luján de Cuyo,contacto22@perez.com.ar
+23,Almacén Martínez,San Juan,Chimbas,contacto23@martinez.com.ar
+24,Almacén Castro,Mendoza,San Rafael,contacto24@castro.com.ar
+25,Despensa Ortiz,Córdoba,Villa María,contacto25@ortiz.com.ar
+26,Despensa Herrera,Mendoza,Guaymallén,contacto26@herrera.com.ar
+27,Autoservicio López,Mendoza,Mendoza,contacto27@lopez.com.ar
+28,Minimercado Acosta,San Luis,Merlo,contacto28@acosta.com.ar
+29,Despensa Silva,Mendoza,San Martín,contacto29@silva.com.ar
+30,Kiosco García,San Juan,Pocito,contacto30@garcia.com.ar
+31,Distribuidora Castro,Córdoba,Río Cuarto,contacto31@castro.com.ar
+32,Almacén López,Mendoza,Luján de Cuyo,contacto32@lopez.com.ar
+33,Kiosco García,San Juan,Chimbas,contacto33@garcia.com.ar
+34,Distribuidora Herrera,Buenos Aires,Mar del Plata,contacto34@herrera.com.ar
+35,Distribuidora Díaz,Mendoza,Godoy Cruz,
+36,Autoservicio Pérez,San Luis,Merlo,contacto36@perez.com.ar
+37,Distribuidora Castro,Mendoza,Guaymallén,contacto37@castro.com.ar
+38,Almacén Silva,Santa Fe,Rosario,contacto38@silva.com.ar
+39,Distribuidora Ruiz,San Juan,San Juan,contacto39@ruiz.com.ar
+40,Autoservicio Rodríguez,Córdoba,Córdoba,contacto40@rodriguez.com.ar
+41,Kiosco Fernández,Buenos Aires,La Plata,contacto41@fernandez.com.ar
+42,Distribuidora Castro,San Juan,San Juan,
+43,Autoservicio Castro,Mendoza,Rivadavia,contacto43@castro.com.ar
+44,Minimercado Pérez,Mendoza,San Martín,contacto44@perez.com.ar
+45,Kiosco Pérez,Córdoba,Río Cuarto,contacto45@perez.com.ar
+46,Minimercado Benítez,Mendoza,Luján de Cuyo,contacto46@benitez.com.ar
+47,Supermercado Sánchez,San Juan,Rawson,contacto47@sanchez.com.ar
+48,Minimercado Sánchez,Mendoza,San Rafael,contacto48@sanchez.com.ar
+49,Autoservicio Rodríguez,Mendoza,Godoy Cruz,contacto49rodriguez.com.ar
+50,Supermercado Torres,Mendoza,Mendoza,contacto50@torres.com.ar
+51,Autoservicio Molina,San Juan,Rivadavia,contacto51@molina.com.ar
+52,Despensa Ortiz,San Juan,Pocito,contacto52@ortiz.com.ar
+53,Autoservicio Acosta,Mendoza,Rivadavia,contacto53@acosta.com.ar
+54,Despensa Ruiz,Mendoza,San Martín,
+55,Supermercado López,San Juan,San Juan,contacto55@lopez.com.ar
+56,Autoservicio López,San Juan,Rivadavia,contacto56@lopez.com.ar
+57,Autoservicio Benítez,Mendoza,San Rafael,contacto57@benitez.com.ar
+58,Autoservicio Benítez,San Juan,Rivadavia,contacto58@benitez.com.ar
+59,Distribuidora Benítez,Buenos Aires,La Plata,contacto59@benitez.com.ar
+60,Supermercado López,Buenos Aires,Bahía Blanca,contacto60@lopez.com.ar
+27,Autoservicio López,Mendoza,Mendoza,contacto27@lopez.com.ar
+32,Almacén López,Mendoza,Luján de Cuyo,contacto32@lopez.com.ar
+31,Distribuidora Castro,Córdoba,Río Cuarto,contacto31@castro.com.ar
+14,Distribuidora Fernández SRL,Mendoza,Maipú,contacto14@fernandez.com.ar
+56,Autoservicio López SRL,San Juan,Rivadavia,contacto56@lopez.com.ar
